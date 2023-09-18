@@ -13,9 +13,9 @@
 -Change the meme template (the background image)
 -The meme template selector element needs to have a label element associated with it containing the text Meme template
 -If the user follows the steps below, the doge meme template needs to be selected:
--Click on the label of the meme template selector
--Clear any existing value (eg. with a text box)
--Type the text doge
--Hit enter
+a.Click on the label of the meme template selector
+b.Clear any existing value (eg. with a text box)
+c.Type the text doge
+d. Hit enter
 -Download the meme by clicking on a button
 -The button element needs to contain the text Download
